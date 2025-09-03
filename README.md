@@ -4,7 +4,7 @@ An end-to-end data science project that recommends the best crop to grow based o
 
 ## 🚀 Live Demo
 
-You can access and interact with the live application here: **[AgriGenius App]([YOUR-STREAMLIT-APP-URL-HERE])**
+You can access and interact with the live application here: **[AgriGenius App]([https://crop-predictorapp.streamlit.app/])**
 
 ## ✨ Features
 
